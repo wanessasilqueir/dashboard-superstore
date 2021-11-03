@@ -1,4 +1,4 @@
-# dashboard-superstore
+# Análise de vendas
 
 A primeira competição de visualização de dados da FLAI - Inteligência Artificial me garantiu a 2ª colocação e eu não poderia estar mais satisfeita! Criar painéis de visualização para mim, é, sem dúvidas, uma das melhores maneiras de mostrar ao cliente as respostas para os principais questionamentos que ele tem sobre a sua empresa, e poder contribuir no direcionamento de uma tomada de decisão melhor para o seu negócio é, definitivamente, gratificante! 
 
